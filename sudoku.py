@@ -1,5 +1,3 @@
-# Name: Colin Wang
-# Date: 12/7/20
 import os, time
 
 
